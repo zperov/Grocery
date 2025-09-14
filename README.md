@@ -4,10 +4,10 @@
 	<head>
      	<body>
    			Welcome  <br>
-			<a href="https://zperov.github.io">Main   </a> <br>
-			<a href="https://zperov.github.io/Hours-and-Location">************Main2*************</a> <br>
-			<a href="https://zperov.github.io/About-Us/">***********About Us*************</a> <br>
-			<b Work In Progess /b>
+			<a href="https://zperov.github.io/Products">*****Products*****</a> <br>
+			<a href="https://zperov.github.io/Hours-and-Location">*****Hours-and-Location*****</a> <br>
+			<a href="https://zperov.github.io/About-Us/">*****About Us*****</a> <br>
+			<b *****Work In Progess***** /b>
 		</body>
 </html>
 
