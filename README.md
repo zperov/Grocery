@@ -3,7 +3,7 @@
 <html
 	<head>
      	<body>
-   			Welcome  <br>
+   			**Welcome**  <br>
 			<a href="https://zperov.github.io/Products">*****Products*****</a> <br>
 			<a href="https://zperov.github.io/Hours-and-Location">*****Hours-and-Location*****</a> <br>
 			<a href="https://zperov.github.io/About-Us/">*****About Us*****</a> <br>
