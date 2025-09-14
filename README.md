@@ -11,6 +11,6 @@
 		<a href="https://zperov.github.io">Main   </a>
 		<a href="https://zperov.github.io/index.html">************Main2*************</a>
 		<a href="https://zperov.github.io/About-Us/">***********About Us*************</a>
-		<p>� test �</p>
+		<b Work In Progess /b>
 	</body>
 </html>
