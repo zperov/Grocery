@@ -7,9 +7,9 @@
 
 	<body>
    
-    	<b>TES  </b>
+    	<b>Welcome  </b>
 		<a href="https://zperov.github.io">Main   </a>
-		<a href="https://zperov.github.io/index.html">************Main2*************</a>
+		<a href="https://zperov.github.io/Hours-and-Location">************Main2*************</a>
 		<a href="https://zperov.github.io/About-Us/">***********About Us*************</a>
 		<b Work In Progess /b>
 	</body>
