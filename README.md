@@ -1,4 +1,4 @@
-#This website is being designed to provide information related to the local grocery store. Included on the site- Contact Page, Hours, Location
+**This website is being designed to provide information related to the local grocery store. Included on the site- About Us, Hours, Location**
 <!DOCTYPE html>  
 <html
 	<head>
