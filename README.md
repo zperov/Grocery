@@ -1,5 +1,5 @@
 <!DOCTYPE html>  
-<html>
+<html lang="en">
 	<head>
 		**Welcome to our first website**  <br> <br> <br>
 		**This website is being designed to provide information related to the local grocery store. We will soon reflect on our site- Products Page, Hours and Location Page, and the About Us Page** <br><br>
