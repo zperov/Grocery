@@ -1,1 +1,21 @@
+body {
+      background-color: white; /* White backgrd https://www.w3schools.com/css/css_background.asp */
+      font-family: Calibri, sans-serif; /*https://www.w3schools.com/css/css_font.asp fallback font too*/
+      font-size: 12px ;  /* https://www.w3schools.com/css/css_font_size.asp*/
+}
+.dollar-amnt,
+{
+     font-size: 15pt; /* https://www.w3schools.com/cssref/sel_class.php */
+}
+.info {
+      font-weight: bold; /* https://www.w3schools.com/cssref/pr_font_weight.php */
+      color: black;
+      font-size: 15pt; /* https://www.w3schools.com/cssref/sel_class.php */
+}
+.sale-item {
+      background-color: yellow;
+      font-weight: bold; /* https://www.w3schools.com/cssref/pr_font_weight.php */
+      color: black;
+      font-size: 15pt; /* https://www.w3schools.com/cssref/sel_class.php */
+}
 
