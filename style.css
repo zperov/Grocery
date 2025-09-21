@@ -1,40 +1,28 @@
-<body>
-    background-color: white; /* White backgrd https://www.w3schools.com/css/css_background.asp */
-	color: black;
-  	border: 4px solid black;
-  	margin: 40px;
-  	padding: 20px;
-	/* https://www.w3schools.com/html/tryit.asp?filename=tryhtml_classes_capitals*/
-      font-family: Calibri, sans-serif; /*https://www.w3schools.com/css/css_font.asp fallback font too*/
-      font-size: 12px ;  /* https://www.w3schools.com/css/css_font_size.asp*/
-	  text-align: center; /* https://www.w3schools.com/cssref/sel_class.php */
 <style>
-.info {
-      font-weight: bold; /* https://www.w3schools.com/cssref/pr_font_weight.php */
+	body{
+      background-color: white;
       color: black;
-      font-size: 15pt; /* https://www.w3schools.com/cssref/sel_class.php */
-}
-.sale-item {
+      border: 4px solid black;
+      margin: 40px;
+      padding: 20px;
+      font-family: Calibri,sans-serif;
+      font-size: 12px;
+      text-align: center;
+    }
+    .info{
+      font-weight: bold;
+      color: black;
+      font-size: 15pt;
+    }
+    .sale-item{
       background-color: yellow;
-      font-weight: bold; /* https://www.w3schools.com/cssref/pr_font_weight.php */
+      font-weight: bold;
       color: black;
-      font-size: 15pt; /* https://www.w3schools.com/cssref/sel_class.php */
-}
-.dollar-amnt {
-     font-size: 15pt; /* https://www.w3schools.com/cssref/sel_class.php */
-}
-</style>
-<div class="info">
-	<h2>Our Information</h2>
-    <p>We are located on Food Blvd</p>
-</div>  
-<div class=" sale-item">
-	<h2>Our Sale Items this week</h2>
-    <p>Bread and Milk</p>
-</div>  
-<div class=" dollar-amnt">
-	<h2>Our Sale Items</h2>
-    <p>We have a special on bread for $3 a loaf </p>
-    <p>We have a special on Milk for $3 a gallon</p>
-</div>  
-</body>
+      font-size: 15pt;
+    }
+	.dollar-amnt{
+    	font-weight: bold;
+      	color: black;
+      	font-size: 15pt;
+    }
+  </style>
