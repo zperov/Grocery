@@ -20,7 +20,7 @@
       	padding: 20px;
 	}
 	.hours{
-		background-color: orange;
+		background-color: olive;
 		text-align: center;
 		font-weight: bold;
       	color: black;
@@ -39,7 +39,7 @@
       	margin: 40px;
       	padding: 20px;
     
-    .sale-item{
+    .sale-items{
 		background-color: yellow;
 		text-align: center;
 		font-weight: bold;
