@@ -51,6 +51,8 @@
 	.banner {
 		width: 800px;
   		height: 600px;
+		margin: 40px;
+      	padding: 20px;
   	    background-position: center;
 		background-image: linear-gradient (to right, yellow, green, orange, red);
 		background-repeat: no-repeat;
