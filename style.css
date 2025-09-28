@@ -56,7 +56,7 @@
   	    background-position: center;
 		background-image: linear-gradient (to right, yellow, green, orange, red);
 		background-repeat: no-repeat;
-		color: white;
+		color: blue;
 		font-size: 18 pt;
     	position: relative;
     	display: flex;
