@@ -54,7 +54,7 @@
 		width: 800px;
   		height: 600px;
   	    background-position: center;
-		background: linear-gradient(to right, blue, green, yellow, orange, red);
+		background-image: linear-gradient (to right, blue, green, yellow, orange, red);
 		background-repeat: no-repeat;
 		color: green;
 		font-size: 18 pt;
