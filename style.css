@@ -4,7 +4,7 @@
 		background-color: grey;
       	color: blue; 
       	border: 4px solid black;
-      	margin: 40px;
+      	margin: 30px;
       	padding: 20px;
       	font-family: Calibri,sans-serif;
       	font-size: 12px;
@@ -15,7 +15,7 @@
       	color: black;
       	font-size: 15pt;
 		border: 4px solid black;
-      	margin: 40px;
+      	margin: 30px;
       	padding: 20px;
 	}
 	.hours{
@@ -25,7 +25,7 @@
       	color: black;
       	font-size: 15pt;
 		border: 4px solid black;
-      	margin: 40px;
+      	margin: 30px;
       	padding: 20px;
     }
 	.sale-items{
@@ -35,7 +35,7 @@
       	color: black;
       	font-size: 15pt;
 		border: 4px solid black;
-      	margin: 40px;
+      	margin: 30px;
       	padding: 20px;
     }
 	.fruits-veg{
@@ -45,7 +45,7 @@
       	color: black;
       	font-size: 15pt;
 		border: 4px solid black;
-      	margin: 40px;
+      	margin: 30px;
       	padding: 20px;
     }
 	.banner{
@@ -61,7 +61,7 @@
      	font-family: Calibri,sans-serif;
      	font-weight: bold;
      	font-size: 18px;
-		margin: 40px;
+		margin: 30px;
    		padding: 20px;
 		}
 	 }
