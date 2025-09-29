@@ -8,6 +8,10 @@
       	padding: 20px;
       	font-family: Calibri,sans-serif;
       	font-size: 12px;
+		background-image: url("Wagons.jpg");
+		background-repeat: no-repeat;
+  		background-attachment: fixed;
+  		background-size: 100% 100%;
 	}
     .info{
 		text-align: center;
@@ -58,10 +62,7 @@
      	font-family: Calibri,sans-serif;
      	font-weight: bold;
      	font-size: 18px;
-		background-image: url("Wagons.jpg");
-		background-repeat: no-repeat;
-  		background-attachment: fixed;
-  		background-size: 100% 100%;
+		
     	margin: 40px;
    		padding: 20px;
 		}
