@@ -70,18 +70,14 @@
 	}
 	.aisle{
 		text-align: center;
-	    font-weight: bold;
-      	color: black;
-      	font-size: 15pt;
-		border: 4px solid black;
-		background-color: grey;
-      	margin: 40px;
-      	padding: 20px;
+		color: black;
+      	border: 4px solid black;
+      	font-family: Calibri,sans-serif;
+      	font-size: 12px;
+	   	background-image: url("Aisle2.PNG");
+		background-repeat: no-repeat;
+  		background-attachment: fixed;
+  		background-size: 100% 100%;
 	}
-	aisle img {
-  		width: 100%;
-  		height: 100%;
-  		object-fit: contain;
-	}	
 	
 </style>
