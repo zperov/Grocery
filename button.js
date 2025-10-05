@@ -7,3 +7,5 @@ saleButton.addEventListener('click', () => {
   } else {
     saleItem.style.display = 'none';
   }
+});
+                            
