@@ -1,5 +1,5 @@
-const saleButton = document.getElementById('sale-button');
-const saleItem = document.getElementById('sale-item');
+const saleButton = document.getElementById('saleButton');
+const saleItem = document.getElementById('saleItem');
 
 saleButton.addEventListener('click', () => {
   if (saleItem.style.display === 'none') {
