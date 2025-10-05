@@ -85,14 +85,14 @@ navAll{
     display: inline-block; 
     margin: 0 15px; 
 }
-.navEach a {  
+.navEach{  
     color: darkblue;  
     text-decoration: none;  
     font-weight: bold;  
     font-size: 3.2em;  
     transition: color 0.3s;  
 }
-.navEach a:hover {
+.navEach:hover {
     color: orange;
 }	
 </style>
