@@ -89,7 +89,7 @@ navAll{
     color: darkblue;  
     text-decoration: none;  
     font-weight: bold;  
-    font-size: 3.2em;  
+    font-size: 15px;  
     transition: color 0.3s;  
 }
 .navEach:hover {
