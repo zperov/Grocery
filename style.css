@@ -78,7 +78,7 @@ navAll{
     padding: 5;  
     display: inline-block;  
 }
-.navEach{
+.navEach a {
     display: inline-block; 
     margin: 0 15px; 
 	color: darkblue;  
