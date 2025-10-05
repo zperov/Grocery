@@ -68,5 +68,21 @@
 		color: orange;
 		font-weight: bold;
 	}
+	.aisle{
+		width: 600px;
+  		height: 400px;
+ 	   	background-size: cover; 
+  		background-position: center;  
+		background-repeat: no-repeat;  
+		text-align: center;
+	   	color: red;
+    	border: 4px solid black;
+ 		font-family: Calibri,sans-serif;
+		font-weight: bold;
+     	font-size: 30px;
+		margin: 30px;
+   		padding: 20px;
+	}
+		
 	
 </style>
