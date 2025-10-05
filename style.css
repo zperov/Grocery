@@ -64,6 +64,9 @@
     	padding: 20px; 
     	box-sizing: border-box;
 		}
+	.banner h1 {
+    	font-size: 3em; 
+    	margin-bottom: 10px; 
 	#saleButton {
  	 	padding: 30px 50px;
 	  	font-size: 40px;
