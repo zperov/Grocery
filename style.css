@@ -83,7 +83,7 @@ navAll{
 }
 .navEach{
     display: inline-block; 
-    margin: 0 30px; 
+    margin: 0 15px; 
 }
 .navEach a {  
     color: darkblue;  
