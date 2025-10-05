@@ -87,7 +87,7 @@ navAll{
     font-size: 25px;  
     transition: color 0.3s;  
 }
-.navEach:hover {
+.navEach a:hover {
     color: orange;
 }	
 </style>
