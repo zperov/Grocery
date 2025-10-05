@@ -74,8 +74,8 @@ navAll{
 }
 .navList{
     list-style-type: none;  
-    margin: 0;  
-    padding: 0;  
+    margin: 5;  
+    padding: 5;  
     display: inline-block;  
 }
 .navEach{
