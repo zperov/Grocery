@@ -69,12 +69,7 @@
  	 	padding: 30px 50px;
 	  	font-size: 40px;
 		color: orange;
+		font-weight: bold;
 	}
-	#saleButton span {
-  		padding: 30px 50px;
-	  	font-size: 40px;
-		color: orange;
-  		font-weight: bold;
-	}
-
-  </style>
+	
+</style>
