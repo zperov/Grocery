@@ -24,6 +24,26 @@
         	</ul>
    	   		</nav>
     	</header>
+		<h1>Contact Us</h1>
+    	<form action="contactForm.php" method="post">
+            <p> <label for="nm">Name (required):</label><br>
+            <input type="text" id="name" name="nm" required> </p>
+        
+			<p> <label for="ph">Phone Number (required):</label><br>
+            <input type="tel" id="ph" name="ph" required> </p>
+
+      		<p> <label for="em">Email Address (optional):</label><br>
+            <input type="email" id="em" name="em"> </p>
+		    
+			<p> <label for="mes">Message (required):</label><br>
+            <textarea id="mes" name="mes" rows="6" cols="30" required></textarea></p>
+
+	        <p> <label for="orNum">Order Number (optional):</label><br>
+            <input type="text" id="orNum" name="orNum"> </p>
+
+        	<p> <input type="submit" value="Submit"> </p>
+   		</form>
+
 		<div class="info">
     		<h2>Our Information</h2>
 			<p>Includes Location</p>
