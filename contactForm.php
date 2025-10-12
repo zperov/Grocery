@@ -10,10 +10,6 @@
         else {
         echo "<h1>Information Captured</h1>";
         echo "<p>Thank you for your submission, $nm.</p>";
-      } else {
-        echo "<h1>Error</h1>";
-        echo "<p>Please go back and fill in all the required fields.</p>";
-    }
-    
+      } else    
 } 
 ?>
