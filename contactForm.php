@@ -1,9 +1,9 @@
 <?php
       if ($_SERVER["REQUEST_METHOD"] == "POST") {
-        $nm = htmlspecialchars($_POST['name']);
-        $ph = htmlspecialchars($_POST['phone']);
-        $em = htmlspecialchars($_POST['email']);
-        $mes = htmlspecialchars($_POST['message']);
+        $nm = htmlspecialchars($_POST['nm']);
+        $ph = htmlspecialchars($_POST['ph']);
+        $em = htmlspecialchars($_POST['em']);
+        $mes = htmlspecialchars($_POST['mes']);
         $ordNum = htmlspecialchars($_POST['orNum']);
         if (empty($nm) || empty($ph) || empty($mes)) {
         die("Name, phone, and message are required.")else {
