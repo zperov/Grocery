@@ -7,6 +7,6 @@
         echo "Name, phone, and message are required.";}
         else {
         echo "Thank you for your submission, $nm.";
-      } 
+      }  
       }
 ?>
