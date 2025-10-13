@@ -11,4 +11,5 @@
         echo "<h1>Information Captured</h1>";
         echo "<p>Thank you for your submission, $nm.</p>";
       } 
+      }
 ?>
