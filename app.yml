@@ -1,0 +1,7 @@
+runtime: php
+env: standard
+api_version: 1
+
+handlers:
+- url: /.*
+  script: auto
